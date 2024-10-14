@@ -3,7 +3,7 @@
 # Your code to go here...
 
 my_group =[{ "name": "Jenny", "age": 22, "job": "Student"}, 
-        { "name": "Jason", "age": 22, "job": "Student"},
+        { "name": "Jason", "age": 22, "job": "Student"},{ "name": "Stephen", "age": 33, "job": "Teacher"}
         ]
 
 for row in my_group:
